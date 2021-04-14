@@ -1,2 +1,2 @@
 # EcomPy
-Behaviour data analysis from a real-world e-commerce website
+Behavioral data analysis of visitors from a real-world e-commerce website 
